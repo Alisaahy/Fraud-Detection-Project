@@ -1,5 +1,5 @@
-# Fraud_detection_ML_project
-Build predictive models to determine whether a given transaction will be fraudulent or not
+# [Fraud Detection Project](https://github.com/Alisaahy/Fraud-Detection-Project/blob/master/ML_project_Fraud_detection.ipynb)
+Build predictive models to determine whether a given transaction will be fraudulent or not using transaction data.
 
 ## Project Objective
 The financial services industry is suffering from fraud-related losses and damages. Only in one year, Fraudsters stole about $6 billion from banks last year. Fraud can also affect customer satisfaction and customer retention. As stated by ‘Javelin Strategy & Research’, more than 20 percent of customers choose to change their banks after experiencing fraud. This project used data from credit card transactions data loosely resembles real transactional data from a bank, and build a model to predict future fraud.
